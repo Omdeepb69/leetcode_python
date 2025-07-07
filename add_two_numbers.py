@@ -10,7 +10,6 @@ def addTwoNumbers(self, l1, l2):
     :type l2: Optional[ListNode]
     :rtype: Optional[ListNode]
     """
-
     dummy = ListNode()
     cur = dummy
     carry = 0
